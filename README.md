@@ -1,7 +1,7 @@
 # React and Firebase Scaffold Project
 * Author - Iliyan Nikolaev M.
 * Release date - Q4'23
-* Live Demo: [view demo](crud-auth-tutorial.firebaseapp.com)
+* Live Demo: [view demo](https://crud-auth-tutorial.firebaseapp.com/?_gl=1*fntkz0*_ga*MzY3NDcxMDcxLjE2ODc2NzkyMDU.*_ga_CW55HF8NVT*MTY5Nzk5MDQwOC4xNS4xLjE2OTc5OTIyNDUuNDUuMC4w)
 * You can track all commits to the project in this [repo](https://github.com/iliyanNikolaev/React/commits/main/Other-Work/firebase-vite-crud-auth)
 
 ## Overview
