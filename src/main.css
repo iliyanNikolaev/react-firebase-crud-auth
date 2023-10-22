@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+
+.login-container,
+.register-container,
+.logged-user,
+.moviesList-container,
+.postMovie-container
+.uploadImg-container{
+    margin: 6px;
+}
+
+.logout-btn {
+    margin: 6px;
+}
+
+.moviesList-container{
+    max-width: 600px;
+}
+
+.images-list{
+    margin-top: 6px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    max-width: 650px;
+}
